@@ -2,6 +2,10 @@
 
 Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
+### Stats
+  - https: `42 proxies`
+  - socks4: `105 proxies`
+
 ### Additional Informations
   - Most of the proxies in the **hq list** `are trusted` by the most firewall
 
