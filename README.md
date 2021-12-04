@@ -2,7 +2,7 @@
 
 Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
-# Additional Informations
+### Additional Informations
   - Most of the proxies in the **hq** `are trusted` by the most firewall
 
 ### Download the proxies
