@@ -9,6 +9,7 @@ Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
 ### Additional Informations
   - Most of the proxies in the **hq list** `are trusted` by the most firewall
+  - Response timeout is less than `3000ms`
 
 ### Download the proxies
 ```sh
