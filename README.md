@@ -3,7 +3,7 @@
 Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
 ### Stats
-  - https: `42 proxies`
+  - https: `83 proxies`
   - socks4: `105 proxies`
   - socks5: `20 proxies`
 
