@@ -3,9 +3,9 @@
 Our Website [https://dark-utilities.xyz/](https://dark-utilities.xyz/) !
 
 ### Stats
-  - https: `622 proxies`
-  - socks4: `297 proxies`
-  - socks5: `27 proxies`
+  - https: `209 proxies`
+  - socks4: `206 proxies`
+  - socks5: `48 proxies`
 
 ### Additional Informations
   - Most of the proxies in the **hq list** `are trusted` by the most firewall
