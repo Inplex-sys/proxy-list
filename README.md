@@ -1,6 +1,6 @@
 # Dark Utilities - Proxy List
 
-Our Website [https://omega-project.cz/](https://omega-project.cz/) !
+Our Website [https://dark-utilities.xyz/](https://dark-utilities.xyz/) !
 
 ### Stats
   - https: `622 proxies`
