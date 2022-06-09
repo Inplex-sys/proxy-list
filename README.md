@@ -1,6 +1,6 @@
 # Dark Utilities - Proxy List
 
-Our Website [https://dark-utilities.xyz/](https://dark-utilities.xyz/) !
+Our Website [https://dark-utilities.pw/](https://dark-utilities.pw/) !
 
 ### Stats
   - https: `209 proxies`
